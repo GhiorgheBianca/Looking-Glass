@@ -1,0 +1,280 @@
+E:\11B\Proiect LGS\LGS\LGS\bin\Debug\LGS.exe.config
+E:\11B\Proiect LGS\LGS\LGS\bin\Debug\LGS.exe
+E:\11B\Proiect LGS\LGS\LGS\bin\Debug\LGS.pdb
+E:\11B\Proiect LGS\LGS\LGS\obj\Debug\LGS.csprojResolveAssemblyReference.cache
+E:\11B\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form1.resources
+E:\11B\Proiect LGS\LGS\LGS\obj\Debug\LGS.Properties.Resources.resources
+E:\11B\Proiect LGS\LGS\LGS\obj\Debug\LGS.csproj.GenerateResource.Cache
+E:\11B\Proiect LGS\LGS\LGS\obj\Debug\LGS.csproj.CoreCompileInputs.cache
+E:\11B\Proiect LGS\LGS\LGS\obj\Debug\LGS.exe
+E:\11B\Proiect LGS\LGS\LGS\obj\Debug\LGS.pdb
+E:\11B\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form2.resources
+E:\11B\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form3.resources
+E:\11B\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form4.resources
+E:\11B\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form5.resources
+E:\11B\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form6.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\bin\Debug\LGS.exe.config
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\bin\Debug\LGS.exe
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\bin\Debug\LGS.pdb
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.csprojResolveAssemblyReference.cache
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form1.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form2.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form3.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form4.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form5.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form6.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Properties.Resources.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.csproj.GenerateResource.cache
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.exe
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.pdb
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form7.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form8.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form10.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form9.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form11.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form12.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form13.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form14.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form15.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form16.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form17.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form18.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form19.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form20.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form21.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form22.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form23.resources
+C:\Users\Mihai\Desktop\Proiect LGS\LGS\LGS\obj\Debug\LGS.Form24.resources
+C:\Users\Mihai\Desktop\LGS\LGS\bin\Debug\LGS.exe.config
+C:\Users\Mihai\Desktop\LGS\LGS\bin\Debug\LGS.exe
+C:\Users\Mihai\Desktop\LGS\LGS\bin\Debug\LGS.pdb
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.csprojResolveAssemblyReference.cache
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form1.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form10.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form11.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form12.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form13.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form14.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form15.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form16.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form17.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form18.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form19.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form2.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form20.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form21.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form22.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form23.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form24.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form3.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form4.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form5.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form6.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form7.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form8.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form9.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Properties.Resources.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.csproj.GenerateResource.cache
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.exe
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.pdb
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form25.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form26.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form27.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form28.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form29.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form30.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form31.resources
+C:\Users\Mihai\Desktop\LGS\LGS\obj\Debug\LGS.Form32.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\bin\Debug\LGS.exe.config
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\bin\Debug\LGS.exe
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\bin\Debug\LGS.pdb
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.csprojResolveAssemblyReference.cache
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form1.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form10.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form11.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form12.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form13.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form14.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form15.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form16.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form17.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form18.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form19.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form2.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form20.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form21.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form22.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form23.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form24.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form25.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form26.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form27.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form28.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form29.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form3.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form30.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form31.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form32.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form4.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form5.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form6.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form7.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form8.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form9.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Properties.Resources.resources
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.csproj.GenerateResource.Cache
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.csproj.CoreCompileInputs.cache
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.exe
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.pdb
+E:\11B\Influenţa studioului Looking Glass în dezvoltarea industriei jocurilor\LGS\LGS\obj\Debug\LGS.Form33.resources
+C:\Users\ghior\Desktop\LGS\LGS\bin\Debug\LGS.exe.config
+C:\Users\ghior\Desktop\LGS\LGS\bin\Debug\LGS.exe
+C:\Users\ghior\Desktop\LGS\LGS\bin\Debug\LGS.pdb
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.csprojAssemblyReference.cache
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form1.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form10.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form11.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form12.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form13.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form14.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form15.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form16.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form17.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form18.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form19.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form2.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form20.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form21.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form22.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form23.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form24.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form25.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form26.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form27.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form28.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form29.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form3.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form30.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form31.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form32.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form33.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form4.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form5.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form6.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form7.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form8.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form9.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Properties.Resources.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.csproj.GenerateResource.cache
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.csproj.CoreCompileInputs.cache
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.exe
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.pdb
+C:\Users\ghior\Desktop\LGS\LGS\bin\Debug\Interop.WMPLib.dll
+C:\Users\ghior\Desktop\LGS\LGS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\Interop.WMPLib.dll
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.csproj.ResolveComReference.cache
+E:\11B\LGS\LGS\bin\Debug\LGS.exe.config
+E:\11B\LGS\LGS\bin\Debug\LGS.exe
+E:\11B\LGS\LGS\bin\Debug\LGS.pdb
+E:\11B\LGS\LGS\bin\Debug\Interop.WMPLib.dll
+E:\11B\LGS\LGS\bin\Debug\AxInterop.WMPLib.dll
+E:\11B\LGS\LGS\obj\Debug\LGS.csprojResolveAssemblyReference.cache
+E:\11B\LGS\LGS\obj\Debug\Interop.WMPLib.dll
+E:\11B\LGS\LGS\obj\Debug\AxInterop.WMPLib.dll
+E:\11B\LGS\LGS\obj\Debug\LGS.csproj.ResolveComReference.cache
+E:\11B\LGS\LGS\obj\Debug\LGS.Form1.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form10.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form11.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form12.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form13.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form14.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form15.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form16.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form17.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form18.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form19.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form2.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form20.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form21.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form22.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form23.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form24.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form25.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form26.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form27.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form28.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form29.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form3.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form30.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form31.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form32.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form33.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form4.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form5.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form6.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form7.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form8.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Form9.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.Properties.Resources.resources
+E:\11B\LGS\LGS\obj\Debug\LGS.csproj.GenerateResource.Cache
+E:\11B\LGS\LGS\obj\Debug\LGS.csproj.CoreCompileInputs.cache
+E:\11B\LGS\LGS\obj\Debug\LGS.exe
+E:\11B\LGS\LGS\obj\Debug\LGS.pdb
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\bin\Debug\LGS.exe.config
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\bin\Debug\LGS.exe
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\bin\Debug\LGS.pdb
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\bin\Debug\Interop.WMPLib.dll
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.csprojAssemblyReference.cache
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\Interop.WMPLib.dll
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.csproj.ResolveComReference.cache
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form1.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form10.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form11.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form12.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form13.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form14.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form15.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form16.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form17.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form18.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form19.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form2.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form20.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form21.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form22.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form23.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form24.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form25.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form26.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form27.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form28.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form29.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form3.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form30.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form31.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form32.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form33.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form4.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form5.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form6.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form7.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form8.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Form9.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.Properties.Resources.resources
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.csproj.GenerateResource.cache
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.csproj.CoreCompileInputs.cache
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.exe
+C:\Users\ghior\Desktop\proiecte_munca\LGS\LGS\obj\Debug\LGS.pdb
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form34.resources
+C:\Users\ghior\Desktop\LGS\LGS\bin\Debug\Database1.mdf
+C:\Users\ghior\Desktop\LGS\LGS\bin\Debug\Database1_log.ldf
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form35.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form36.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form37.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form38.resources
+C:\Users\ghior\Desktop\LGS\LGS\obj\Debug\LGS.Form39.resources
